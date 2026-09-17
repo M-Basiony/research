@@ -80,7 +80,7 @@ main {
 .project-card h3 > a {
   margin-top: 0;
   padding: 0;
-  border: none; /* Optional: removes the border if you don't want it looking like a button */
+  border: none; 
 }
 
 .project-card a:hover {
