@@ -76,6 +76,13 @@ main {
   letter-spacing: 0.02em;
 }
 
+.project-card h2 > a,
+.project-card h3 > a {
+  margin-top: 0;
+  padding: 0;
+  border: none; /* Optional: removes the border if you don't want it looking like a button */
+}
+
 .project-card a:hover {
   background: #111;
   color: #fff;
